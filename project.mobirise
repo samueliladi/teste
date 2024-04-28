@@ -60,7 +60,7 @@
     "versionPublish": "5.9.17",
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/imagem-128x128.png",
-    "mbrsiteDomain": "fcs4ajuxbv",
+    "mbrsiteDomain": "0wqpja07rz",
     "usedWebp": true,
     "cssOptimize": false,
     "lazyLoad": false,
@@ -95,7 +95,7 @@
     "cookiesAlert": false,
     "site_lang": "pt",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "global_header_custom": "<meta name=\"adopt-website-id\" content=\"6a8616c2-f959-43c9-a0a3-305a9a0b59af\" />\n<script src=\"//tag.goadopt.io/injector.js?website_code=6a8616c2-f959-43c9-a0a3-305a9a0b59af\" \nclass=\"adopt-injector\"></script>\n\n\n\n<script src=\"//tag.goadopt.io/injector.js?website_code=6a8616c2-f959-43c9-a0a3-305a9a0b59af\" \nclass=\"adopt-injector\"></script>\n<meta name=\"adopt-website-id\" content=\"6a8616c2-f959-43c9-a0a3-305a9a0b59af\" />\n<script src=\"//tag.goadopt.io/injector.js?website_code=6a8616c2-f959-43c9-a0a3-305a9a0b59af\" \nclass=\"adopt-injector\"></script>"
+    "global_header_custom": "<meta name=\"adopt-website-id\" content=\"6a8616c2-f959-43c9-a0a3-305a9a0b59af\" />\n<script src=\"//tag.goadopt.io/injector.js?website_code=6a8616c2-f959-43c9-a0a3-305a9a0b59af\" \nclass=\"adopt-injector\"></script>\n\n\n\n<meta name=\"adopt-website-id\" content=\"6a8616c2-f959-43c9-a0a3-305a9a0b59af\" />\n<script src=\"//tag.goadopt.io/injector.js?website_code=6a8616c2-f959-43c9-a0a3-305a9a0b59af\" \nclass=\"adopt-injector\"></script>"
   },
   "pages": {
     "5.html": {
