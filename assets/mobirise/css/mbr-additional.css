@@ -3736,6 +3736,14 @@ a {
     margin-right: -0.5rem;
   }
 }
+.cid-uax5g0jDr9 .row {
+  margin-left: 0;
+  margin-right: 0;
+}
+.cid-uax5g0jDr9 .item {
+  padding: 0;
+  margin: 0;
+}
 .cid-uax5g0jDr9 .item-wrapper {
   position: relative;
   display: flex;
@@ -3766,6 +3774,39 @@ a {
 }
 .cid-uax5g0jDr9 .content-head {
   max-width: 800px;
+}
+.cid-uax5g0jDr9 .mbr-iconfont {
+  display: inline-flex;
+  font-size: 2rem;
+  width: 80px;
+  justify-content: center;
+  align-items: center;
+  height: 80px;
+  border-radius: 50%;
+}
+.cid-uax5g0jDr9 .icon-center {
+  text-align: center;
+}
+.cid-uax5g0jDr9 .mbr-iconfont.orange-fundo-circle {
+  background: #f2d6a3;
+}
+.cid-uax5g0jDr9 .mbr-iconfont.green-fundo-circle {
+  background: #64dac0;
+}
+.cid-uax5g0jDr9 .mbr-iconfont.blue-fundo-circle {
+  background: #517bc9;
+}
+.cid-uax5g0jDr9 .material-icons.md-48.orange600 {
+  color: #FB8C00;
+  font-size: 48px;
+}
+.cid-uax5g0jDr9 .material-icons.md-48.green600 {
+  color: #2b7a69;
+  font-size: 48px;
+}
+.cid-uax5g0jDr9 .material-icons.md-48.blue600 {
+  color: #0c2c68;
+  font-size: 48px;
 }
 .cid-tJS9pBcTSa {
   padding-top: 2rem;
@@ -7959,6 +8000,7 @@ a {
 .cid-uaCUOFhNYZ {
   padding-top: 6rem;
   padding-bottom: 6rem;
+  background-color: #edefeb;
 }
 .cid-uaCUOFhNYZ .mbr-fallback-image.disabled {
   display: none;
@@ -7971,7 +8013,6 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
-  background-image: url("../../../assets/images/background1.webp");
 }
 .cid-uaCUOFhNYZ .nav-tabs .nav-item.open .nav-link:focus,
 .cid-uaCUOFhNYZ .nav-tabs .nav-link.active:focus {
