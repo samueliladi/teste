@@ -70,7 +70,7 @@
     "siteUrl": false,
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "modified": "2024-04-28T02:37:57.849Z",
     "publishEditFolder": false,
     "chatbutton": {
